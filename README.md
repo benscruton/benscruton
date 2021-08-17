@@ -33,7 +33,7 @@ An app to find recipes based on ingredients users have, and to build and manage 
 Began work as part of a team of four; I have continued development on my own, focusing primarily on expanding the functionality of the shopping list.
 
 - [Demonstration of features](https://benscruton.github.io/#/projects/dinnergetter)
-- [GitHub repository](https://github.com/benscruton/dinner_getter)
+- [GitHub repository](https://github.com/benscruton/dinnergetter)
 
 My contributions:  
 - Along with team members, wrote back end using Java, Spring Boot, and MySQL to utilize relational database capabilities
