@@ -55,7 +55,7 @@ Began work with a partner, who focused on the book and shelf side while I built 
 - [Demonstration of features](https://benscruton.github.io/#/projects/bookshelf)
 - [GitHub repository](https://github.com/benscruton/books_project)
 
-![Bookshelf screenshot](/bookshelfSpotlight.png)
+<img alt="Bookshelf screenshot" src="/bookshelfSpotlight.png" width="200" />
 
 My contributions:  
 - Applied Django’s ORM methods and a relational database to connect users to shelves, books, and other users
