@@ -19,6 +19,8 @@ Began development alongside a partner at Coding Dojo; since graduating, I have c
 - [Demonstration of features](https://benscruton.github.io/#/projects/chessroulette)
 - [GitHub repository](https://github.com/benscruton/chess_roulette)
 
+![Chess Roulette screenshot](/chessRouletteSpotlight.png)
+
 My contributions:  
 - Connected React front-end to Express and Mongo back-end using Axios for a snappy user experience
 - Created User and Game models with MongoDB and Mongoose, utilizing various data structures to store information in a way that can be converted into a visually recognizable chessboard on the front end
@@ -35,6 +37,8 @@ Began work as part of a team of four; I have continued development on my own, fo
 - [Demonstration of features](https://benscruton.github.io/#/projects/dinnergetter)
 - [GitHub repository](https://github.com/benscruton/dinnergetter)
 
+![Dinner Getter screenshot](/dinnerGetterSpotlight.png)
+
 My contributions:  
 - Along with team members, wrote back end using Java, Spring Boot, and MySQL to utilize relational database capabilities
 - Along with team members, developed a React front end for fast load times, and styled with Materialize for clean aesthetics
@@ -50,6 +54,8 @@ Began work with a partner, who focused on the book and shelf side while I built 
 
 - [Demonstration of features](https://benscruton.github.io/#/projects/bookshelf)
 - [GitHub repository](https://github.com/benscruton/books_project)
+
+![Bookshelf screenshot](/bookshelfScreenshot.png)
 
 My contributions:  
 - Applied Django’s ORM methods and a relational database to connect users to shelves, books, and other users
