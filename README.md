@@ -6,6 +6,8 @@ As a Ph.D. candidate, I built experience as a learner and as a creative thinker.
 
 I also believe that technology can be used to make the world a better, safer, more equitable place. I am particularly interested in finding a way to use programming to help make a difference in people's everyday lives.
 
+You can read more about my background at my website, [https://benscruton.github.io].
+
 ---
 
 ### Projects I have worked on include:
